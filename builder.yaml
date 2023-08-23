@@ -1,1 +1,1 @@
-buildcmd: dotnet build -c Release
+buildcmd: dotnet build src/Ryujinx -c Release
