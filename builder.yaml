@@ -1,1 +1,2 @@
 buildcmd: dotnet build src/Ryujinx -c Release
+projectpath: src/Ryujinx
